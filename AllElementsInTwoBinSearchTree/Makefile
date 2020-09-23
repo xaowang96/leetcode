@@ -1,4 +1,4 @@
-DIR_INC = ./include
+DIR_INC = ../include
 DIR_SRC = ./src
 DIR_OBJ = ./obj
 
